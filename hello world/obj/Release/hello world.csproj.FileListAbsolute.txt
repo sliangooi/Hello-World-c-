@@ -1,0 +1,7 @@
+C:\Users\asusa555l\source\repos\hello world\hello world\bin\Release\hello world.exe.config
+C:\Users\asusa555l\source\repos\hello world\hello world\bin\Release\hello world.exe
+C:\Users\asusa555l\source\repos\hello world\hello world\bin\Release\hello world.pdb
+C:\Users\asusa555l\source\repos\hello world\hello world\obj\Release\hello world.csprojResolveAssemblyReference.cache
+C:\Users\asusa555l\source\repos\hello world\hello world\obj\Release\hello world.csproj.CoreCompileInputs.cache
+C:\Users\asusa555l\source\repos\hello world\hello world\obj\Release\hello world.exe
+C:\Users\asusa555l\source\repos\hello world\hello world\obj\Release\hello world.pdb
